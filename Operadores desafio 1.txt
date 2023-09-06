@@ -1,0 +1,21 @@
+Questão 1.
+let FAHRENHEIT = (77 - 32)*(5/9) + 273.15
+console.log(FAHRENHEIT)
+
+Questão 2.
+let FAHRENHEIT = (80)*(9/5) + 32
+console.log(FAHRENHEIT)
+
+Questão 3.
+let kelvin = (30)*(5/9) + 273.15
+const celsius = prompt("insira um valor de graus celsius")
+let F = celsius *(9/5) + 32
+
+console.log(kelvin, celsius, F)
+
+Questão 4.
+let celsius = Number(prompt("insira o valor graus celsius"))
+let FAHRENHEIT = (celsius)*(9/5) + 30
+let kelvin = (FAHRENHEIT - 32)*(5/9) + 273.15
+alert(`O valor de celsius em FAHRENHEIT é ${FAHRENHEIT}e o valor em kelvin é ${kelvin}`)
+

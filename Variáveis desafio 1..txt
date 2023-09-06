@@ -1,0 +1,9 @@
+const primeiroValor = prompt("insira um numero")
+const primeiroNum = Number(primeiroValor)
+const segundoValor = prompt("insira outro numero")
+const segundoNum = Number(segundoValor)
+
+const resultado = primeiroNum + segundoNum 
+alert(`A soma é:  ${resultado}`)
+
+console.log(resultado)
