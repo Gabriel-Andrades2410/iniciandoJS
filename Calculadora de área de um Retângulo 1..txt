@@ -1,0 +1,5 @@
+let a = parseFloat(prompt("Insira a largura"));
+let b = parseFloat(prompt("Insira a altura"));
+let c = a * b 
+console.log(c);
+

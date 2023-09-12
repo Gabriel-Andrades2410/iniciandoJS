@@ -1,0 +1,12 @@
+let cor = prompt("insira uma cor") 
+let simbolo = prompt("insira um simbolo")
+
+if (cor === "vermelho" && simbolo === "x" ) {
+    alert("cave um buraco no chão")
+} else if (cor === "azul" && simbolo === "$") {
+    alert("siga em frente")
+} else if (cor === "verde" && simbolo === "*") {
+    alert("suba em uma árvore")
+} else if (cor === "amarelo" && simbolo === "#") {
+    alert("pare e descanse")
+}

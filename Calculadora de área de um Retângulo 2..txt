@@ -1,0 +1,5 @@
+let a = parseFloat(prompt("Insira a primeira nota"));
+let b = parseFloat(prompt("Insira a segunda nota"));
+let c = parseFloat(prompt("Insira a terceira nota"));
+let media = (a + b + c)/3
+console.log("A média das notas é:", media);
