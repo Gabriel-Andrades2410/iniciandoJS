@@ -1,0 +1,19 @@
+questão 1.
+
+const primeiroValor = 0.05
+const segundoValor = 280
+
+const resultado = primeiroValor * segundoValor
+
+console.log(primeiroValor, segundoValor)
+alert(`O valor da residencia é: ${resultado}`)
+
+questão 2.
+const primeiroValor = 0.05
+const segundoValor = 280
+
+const resultado = primeiroValor * segundoValor * 0.85 
+
+console.log(primeiroValor, segundoValor)
+alert(`Com o desconto o valor fica: ${resultado}`)
+

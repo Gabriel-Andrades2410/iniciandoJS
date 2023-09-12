@@ -1,0 +1,34 @@
+A)
+const lb = 20
+let kg = 0.453592
+console.log("20lb equivalem a", (lb * kg), "kg")
+
+B)
+const kg = 10.5
+let oz = 0.0283495
+console.log("10.5kg equivalem a", (oz * kg), "kg")
+
+C)
+const mi = 1609.34
+let m = 100
+console.log("100m equivalem a", (mi * m), "m")
+
+D)
+const m = 0.3048
+let ft = 50
+console.log("50ft equivalem a", (m * ft), "ft")
+
+E)
+const l = 3.78541
+let gal = 103.56
+console.log("103.56gal equivalem a", (l * gal), "gal")
+
+F)
+const xic = 450
+let l = 1703.44
+console.log("450xic equivalem a", (l * xic), "xic")
+
+
+G)
+const pergunta = Number(prompt("Insira um valor para conversão de pés para metros"));
+console.log("O valor convertido é", (pergunta * 0.3048), "m");
