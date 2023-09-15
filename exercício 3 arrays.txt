@@ -1,0 +1,5 @@
+const pergunta = prompt("insira um numero de 1 a 4")
+const listaDeCachorros = ["pitbull", "pastor alemão", "salsicha", "pinsher" ]
+
+const lista = listaDeCachorros[0]
+alert(`${listaDeCachorros,lista}`)
