@@ -1,0 +1,7 @@
+const email = prompt("qual seu email?")
+const nomeUsuario = prompt("qual seu nome de usuario?")
+
+const resultado = (email)
+const resultado2 = (nomeUsuario)
+
+alert(`o e-mail ${resultado} foi cadastrado com sucesso. Seja bem-vinda(o), ${resultado2}`)
