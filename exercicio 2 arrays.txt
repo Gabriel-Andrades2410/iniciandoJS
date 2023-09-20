@@ -1,0 +1,7 @@
+const frase = prompt("insira uma frase")
+const fraseMaiuscula = frase.toUpperCase()
+const novaFrase = frase.replaceAll("o", "i")
+
+alert(`${frase}`)
+alert(`${fraseMaiuscula = frase.touUpperCase()}`)
+alert(`${novaFrase = frase.replaceAll("o", "i")}`)
