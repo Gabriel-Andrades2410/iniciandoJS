@@ -1,0 +1,4 @@
+const Array = [1, 2, 3, 4, 5];
+const arrayInverso = Array.reverse()
+
+console.log(arrayInverso);
