@@ -1,0 +1,22 @@
+/* 1. 
+A-
+function informacões () {
+    console.log("Eu sou Gabriel, tenho 15 anos, moro no Rio Grande Do Sul e sou estudante.")
+
+}
+informacões()
+
+
+/* 2.
+B-
+function dados (nome, idade, cidade, profissao) {
+let mensagem = `Meu nome é ${nome}, eu tenho ${idade},  moro no ${estado}, e sou ${profissao}`
+return mensagem
+}
+
+nome = "Gabriel"
+idade = 15
+estado = "Rio Grande Do Sul"
+profissao = "estudante"
+mensagem = dados(nome, idade, estado, profissao)
+console.log(mensagem)

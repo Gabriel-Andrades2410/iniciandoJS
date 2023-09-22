@@ -1,0 +1,8 @@
+/* 2.
+a- É para verificar se tem a "cenoura" na frase, dai ela deixará minuscúla.
+b-
+I.Eu gosto de cenoura // true 
+II.CENOURA é bom pra vista // true
+III.Cenouras crescem na terra // false
+ 
+*/
